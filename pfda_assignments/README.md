@@ -1,8 +1,10 @@
 # pfda.assessment
 ## Author: Lucia Macakova
-## Programming for Data Analytics - Assignments
+## Programming for Data Analytics - Assignment tasks
 
-### About the author
+### About: 
+This is my solution for assignment tasks in the assessment of the module Programming for Data Analytics. I am the only contributor.
+
 ##### Assignment 2 - Weather
 Task: With data from weatherreadings.csv, plot the temperature over time (column "dryBulbTemperature_Celsius").
 
