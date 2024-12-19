@@ -20,27 +20,27 @@ Task: With data from hly4935.csv file create a plot of:
 - The temperature
 - The mean temperature each day
 - The mean temperature for each month
-- The Windspeed
-- The rolling windspeed over 24 hours
+- The wind speed
+- The rolling wind speed over 24 hours
 - The max wind speed for each day
-- The monthly mean of the daily max windspeeds
+- The monthly mean of the daily max wind speeds
 
 There could be a need to correct missing values.
 
 #### Solutions:
-Solution is described in steps in jupyter notebooks for the particular  task.
+The Solutions are described in steps in jupyter notebooks for the particular tasks.
 
 
 ### Resources:
-1. https://pandas.pydata.org/docs/index.html
-2. https://numpy.org/doc/stable/index.html 
-3. https://matplotlib.org/stable/
-4. https://seaborn.pydata.org/index.html
-5  https://www.w3schools.com/python/default.asp
-6  https://en.wikipedia.org/wiki/ISO_8601
-7. https://www.ultraboardgames.com/risk/game-rules.php
-7. https://www.geeksforgeeks.org/python-pandas-dataframe-resample/
-9. https://en.wikipedia.org/wiki/Moving_average
+1.  https://pandas.pydata.org/docs/index.html
+2.  https://numpy.org/doc/stable/index.html 
+3.  https://matplotlib.org/stable/
+4.  ttps://seaborn.pydata.org/index.html
+5.  https://www.w3schools.com/python/default.asp
+6.  https://en.wikipedia.org/wiki/ISO_8601
+7.  https://www.ultraboardgames.com/risk/game-rules.php
+8.  https://www.geeksforgeeks.org/python-pandas-dataframe-resample
+9.  https://en.wikipedia.org/wiki/Moving_average
 
 
 
