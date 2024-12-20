@@ -39,17 +39,17 @@ There could be a need to correct missing values.
 Solution: I checked missing cells, replaced ' ' with NaN, and refilled cells with values from previous cells. I used function fillna()[^9]. I converted string objects of 'date' column into datetime series. Than I made this series the index of my dataframe. I converted string values in 'wdsp' column into integer values. I made plots using functions resample()[^10] and rolling()[^11]. function.
 
 ### Resources:
-[^1]    https://pandas.pydata.org/docs/index.html
-[^2]    https://numpy.org/doc/stable/index.html 
-[^3]    https://matplotlib.org/stable/
-[^4]    https://seaborn.pydata.org/index.html
-[^5]    https://en.wikipedia.org/wiki/ISO_8601
-[^6]    https://matplotlib.org/stable/api/dates_api.html
-[^7]    https://www.geeksforgeeks.org/python-str-function/
-[^8]    https://www.ultraboardgames.com/risk/game-rules.php
-[^9]    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.fillna.html
-[^10]   https://www.geeksforgeeks.org/python-pandas-dataframe-resample/
-[^11]   https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rolling.html
+[^1]:    https://pandas.pydata.org/docs/index.html
+[^2]:    https://numpy.org/doc/stable/index.html 
+[^3]:    https://matplotlib.org/stable/
+[^4]:    https://seaborn.pydata.org/index.html
+[^5]:    https://en.wikipedia.org/wiki/ISO_8601
+[^6]:    https://matplotlib.org/stable/api/dates_api.html
+[^7]:    https://www.geeksforgeeks.org/python-str-function/
+[^8]:    https://www.ultraboardgames.com/risk/game-rules.php
+[^9]:    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.fillna.html
+[^10]:   https://www.geeksforgeeks.org/python-pandas-dataframe-resample/
+[^11]:   https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rolling.html
 
 
 
