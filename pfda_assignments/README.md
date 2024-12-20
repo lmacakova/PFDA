@@ -28,8 +28,8 @@ Task: With data from hly4935.csv file create a plot of:
 - The temperature
 - The mean temperature each day
 - The mean temperature for each month
-- The Windspeed
-- The rolling windspeed over 24 hours
+- The wind speed
+- The rolling wind speed over 24 hours
 - The max wind speed for each day
 - The monthly mean of the daily max windspeeds
 
