@@ -36,20 +36,37 @@ Task: With data from hly4935.csv file create a plot of:
 
 There could be a need to correct missing values.
 
+<<<<<<< HEAD
+Solution: I checked missing cells, replaced ' ' with NaN, and refilled cells with values from previous cells. I used function fillna()[^9]. I converted string objects of 'date' column into datetime series. Than I made this series the index of my dataframe. I converted string values in 'wdsp' column into integer values. I made plots using functions resample()[^10] and rolling()[^11]. function.
+
+### Resources:
+[^1]    https://pandas.pydata.org/docs/index.html
+[^2]    https://numpy.org/doc/stable/index.html 
+[^3]    https://matplotlib.org/stable/
+[^4]    https://seaborn.pydata.org/index.html
+[^5]    https://en.wikipedia.org/wiki/ISO_8601
+[^6]    https://matplotlib.org/stable/api/dates_api.html
+[^7]    https://www.geeksforgeeks.org/python-str-function/
+[^8]    https://www.ultraboardgames.com/risk/game-rules.php
+[^9]    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.fillna.html
+[^10]   https://www.geeksforgeeks.org/python-pandas-dataframe-resample/
+[^11]   https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rolling.html
+=======
 #### Solutions:
-Solution is described in steps in jupyter notebooks for the particular  task.
+The Solutions are described in steps in jupyter notebooks for the particular tasks.
 
 
 ### Resources:
-1. https://pandas.pydata.org/docs/index.html
-2. https://numpy.org/doc/stable/index.html 
-3. https://matplotlib.org/stable/
-4. https://seaborn.pydata.org/index.html
-5  https://www.w3schools.com/python/default.asp
-6  https://en.wikipedia.org/wiki/ISO_8601
-7. https://www.ultraboardgames.com/risk/game-rules.php
-7. https://www.geeksforgeeks.org/python-pandas-dataframe-resample/
-9. https://en.wikipedia.org/wiki/Moving_average
+1.  https://pandas.pydata.org/docs/index.html
+2.  https://numpy.org/doc/stable/index.html 
+3.  https://matplotlib.org/stable/
+4.  ttps://seaborn.pydata.org/index.html
+5.  https://www.w3schools.com/python/default.asp
+6.  https://en.wikipedia.org/wiki/ISO_8601
+7.  https://www.ultraboardgames.com/risk/game-rules.php
+8.  https://www.geeksforgeeks.org/python-pandas-dataframe-resample
+9.  https://en.wikipedia.org/wiki/Moving_average
+>>>>>>> 0ab2852450d55ed5ae6d915b4a7d6f7b82759d61
 
 
 
