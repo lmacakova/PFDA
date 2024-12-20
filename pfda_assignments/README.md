@@ -3,7 +3,6 @@
 ## Programming for Data Analytics - Assignment tasks
 
 ### About: 
-### About: 
 This is my solution for assignment tasks in the module Programming for Data Analytics. I am the only contributor.
 
 I worked with modules pandas[^1], numpy[^2], matplotlib[^3] and seaborn[^4].
@@ -38,6 +37,14 @@ There could be a need to correct missing values.
 
 Solution: I checked missing cells, replaced ' ' with NaN, and refilled cells with values from previous cells. I used function fillna()[^9]. I converted string objects of 'date' column into datetime series. Than I made this series the index of my dataframe. I converted string values in 'wdsp' column into integer values. I made plots using functions resample()[^10] and rolling()[^11]. function.
 
+
+
+### Contact:
+Lucia Macakova
+email: G00439449@atu.ie
+
+
+
 ### Resources:
 [^1]:    https://pandas.pydata.org/docs/index.html
 [^2]:    https://numpy.org/doc/stable/index.html 
@@ -55,6 +62,3 @@ Solution: I checked missing cells, replaced ' ' with NaN, and refilled cells wit
 
 
 
-### Contact:
-Lucia Macakova
-email: G00439449@atu.ie
