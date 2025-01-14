@@ -55,7 +55,7 @@ Columns for test_weights.csv
 
 ### Solution:
 
-In project.ipynb notebook. I decided to use neural network prediction[^2] with mean absolute error as measurement.
+In project.ipynb notebook. I decided to use neural network prediction[^2] with mean absolute error[^3] as measurement.
 
 ### Contact:
 Lucia Macakova
