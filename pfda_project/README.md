@@ -9,7 +9,7 @@ I am the only contributor to this project.
 
 Predicting sales values is essential for planning, supplying chains, delivery logistics and inventory management. With accurate forecast, businesses can minimaze waste of resources and volume of unnecessary work-related tasks.
 
-###  Data
+###  Data:
 
 -   sales_train.csv - training set containing the historical sales data for given date and inventory with selected features described below
 -   sales_test.csv - full testing set
@@ -53,14 +53,16 @@ Columns for test_weights.csv
 -   unique_id - inventory id for a single keeping unit
 -   weight - weight used for final metric computation[^1]
 
-### Solution
+### Solution:
 
-In project.ipynb notebook.
+In project.ipynb notebook. I decided to use neural network prediction[^2] with mean absolute error as measurement.
 
 ### Contact:
 Lucia Macakova
 
 email: G00439449@atu.ie
 
-### Resources
+### Resources:
 [^1]: https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2/data
+[^2]: https://www.kaggle.com/code/ezeanyi/predicting-future-sales-with-neural-networks#LSTM
+[^3]: https://en.wikipedia.org/wiki/Mean_absolute_error
